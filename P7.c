@@ -1,4 +1,4 @@
-\\Cristiane Henrique da Silva    11621EEL022\\
+//Cristiane Henrique da Silva    11621EEL022//
 #include <stdio.h>
 
 typedef unsigned long int natural;
